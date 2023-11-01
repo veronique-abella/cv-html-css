@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&family=Spectral:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800;900&family=Spectral:wght@200&display=swap');
+
+body {
+    background-color: mistyrose; 
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(79, 39, 54);
+    border: 2px inset lightpink;
+    box-shadow: 10px 5px 5px lightpink;    
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    color: rgb(173, 48, 104);
+    border: 2px inset lightpink;
+    box-shadow: 10px 5px 5px lightpink;
+}
+
+p {
+    font-family: 'Spectral', serif;
+    color: rgb(79, 39, 54);
+}
+
+h4 {
+    font-family: 'Spectral', serif;
+    color: rgb(79, 39, 54);
+}
